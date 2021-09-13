@@ -7,7 +7,7 @@
     "serve": "vite preview",
     "prepare": "husky install",
     "lint": "prettier --write .",
-    "subfont": "subfont --debug --output=dist  dist/index.html"
+    "subfont": "subfont --debug --output=dist dist/index.html"
   },
   "dependencies": {
     "preact": "^10.5.13"
