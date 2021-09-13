@@ -1,19 +1,10 @@
-import { Logo } from "./logo";
-
 export function App() {
   return (
     <>
-      <Logo />
-      <p>Hello Vite + Preact!</p>
+      <h1>The Web matters</h1>
       <p>
-        <a
-          class="link"
-          href="https://preactjs.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn Preact
-        </a>
+        One man consultantcy that can help you improve your customers experience
+        on the web
       </p>
     </>
   );
